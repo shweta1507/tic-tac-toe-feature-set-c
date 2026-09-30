@@ -45,7 +45,15 @@ AI was used for problem understanding, planning, coding, debugging, testing idea
 5. Open `http://127.0.0.1:5000` in a browser.
 
 ## Screenshots
-Before final submission, add screenshots of the working project here, including the main game, difficulty selection, scoreboard/history, and a completed game.
+
+### Main Game
+![Main Game](IMG-20260930-WA0012.jpg)
+
+### Difficulty Selection and Scoreboard
+![Difficulty Selection and Scoreboard](IMG-20260930-WA0013.jpg)
+
+### Game History and Completed Game
+![Game History and Completed Game](IMG-20260930-WA0014.jpg)
 
 ## Academic Integrity
 This is an individual assignment. AI assistance is permitted by the assignment guidelines, but the student must review, test and understand the submitted implementation.
